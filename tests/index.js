@@ -3,6 +3,7 @@ const decloration = require("./independince.js");
 const testStr = "one small step for man, one gient leap for mankined."; 
 
 let vbeaCrypt = new vbea(20);
+// this length is only for testing perpouses only, never use a key length this small.
 
 console.log('testing random key...');
 

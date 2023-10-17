@@ -24,7 +24,7 @@ encryption.genKey();
 ```
 This function takes no arguments and returns a key in vector format, which you can convert to string format with encodePrKey().
 
-NOTE: for a 1000 length key, it may take ~131 seconds, this is becouse it uses the bcrypt hashing algorithm to be more or less uncrackabl
+NOTE: for a 1000 length key, it may take ~131 seconds, this is becouse it uses the bcrypt hashing algorithm to be more or less uncrackable
 
 ## seddedGenKey()
 ---
@@ -33,7 +33,7 @@ encryption.seddedGenKey();
 ```
 This function takes a seed as a string and returns a key in vector format, which you can convert to string format with encodePrKey().
 
-NOTE: for a 1000 length key, it may take ~131 seconds, this is becouse it uses the bcrypt hashing algorithm to be more or less uncrackabl
+NOTE: for a 1000 length key, it may take ~131 seconds, this is becouse it uses the bcrypt hashing algorithm to be more or less uncrackable
 
 ## getPubKey()
 ---
