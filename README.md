@@ -1,4 +1,4 @@
-# the Vector Based Encryption Algorithem
+# the Vector Based Encryption Algorithm
 
 This is an implementation of a quantum-resistant encryption algorithm developed from a NIST competition and implemented by Alexander L Cooper (the owner of this github account).
 
